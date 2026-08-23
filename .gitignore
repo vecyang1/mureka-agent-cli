@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+node_modules/
+outputs/
+vendor/mureka-docs/
+*.log
+.DS_Store
+.*.baiduyun.uploading.cfg
