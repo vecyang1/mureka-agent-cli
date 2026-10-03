@@ -21,3 +21,4 @@ CLAUDE.md
 GEMINI.md
 AGENTS.md
 
+.pytest_cache/
